@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Besley&display=swap');
+
+body {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.title{
+    font-size: 30px;
+    font-family: 'Besley', serif;
+    text-align: center;
+
+}
+textarea{
+    background-color: cadetblue;
+    font-size: 20px;
+    font-family: 'Besley', serif;
+    height: 200px;
+    width: 600px;
+    border-radius: 35px;
+    margin: 30px 300px;
+    padding: 30px;
+}
+
+.buttons
+{
+    padding: 20px 20px;
+    margin : 10px 10px;
+    font-size: 25px;
+    cursor:pointer;
+}
